@@ -24,3 +24,5 @@ def generate_phonetic():
         print(output_list)
 
 generate_phonetic()
+
+#need to review recursion again.
